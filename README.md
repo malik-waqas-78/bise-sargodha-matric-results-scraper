@@ -22,7 +22,7 @@ You will also need the following Python packages:
 
 ## **Installation**
 
-1. **Clone the repository (or download the results.py file):**  
+1. **Clone the repository (or download the bise-sargodha-matric-results-scraper.py file):**  
    git clone https://github.com/malik-waqas-78/bise-sargodha-matric-results-scraper.git  
    cd bise-sargodha-matric-results-scraper
 
