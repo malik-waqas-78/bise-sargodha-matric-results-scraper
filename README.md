@@ -93,7 +93,7 @@ Highlighting: Cells corresponding to subjects where a student has failed (indica
 
 Example of Excel Output:
 
-(Please insert the screenshot you provided here, e.g., by uploading it to your GitHub repository and linking it like this: ![Example Excel Output](images/output_1.png). Make sure the image is accessible in your repo.)
+![Example Excel Output](images/output_1.png)
 
 Future Enhancements
 This script forms the foundation for a more robust application. Future plans include developing an Android application to provide a user-friendly interface for result retrieval, local SQLite storage, and in-app viewing and export capabilities.
