@@ -1,5 +1,8 @@
 # **BISE Sargodha Matric Result Scraper**
 
+**Example of Excel Output:**  
+ ![Example Excel Output](images/output_1.png)
+
 This Python script is designed to scrape Matriculation exam results from the BISE Sargodha official website for a given range of roll numbers. It retrieves student details and subject-wise marks, then compiles this data into a well-formatted Excel file, highlighting subjects where a student has failed.
 
 ## **Features**
