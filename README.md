@@ -69,7 +69,7 @@ The generated Excel file will have the following columns in order:
 
 **Highlighting:** Cells corresponding to subjects where a student has failed (indicated by abbreviations like BIO, PHY, CHM, EGL, URU, MAT, THQ, PKS, ISM, CSC, CS in the 'overall result' column, including variations like BIOI, BIOII, BIO(PR), ISMI, ISMII) will be highlighted in light red.  
 **Example of Excel Output:**  
-*(Please insert the screenshot you provided here, e.g., by uploading it to your GitHub repository and linking it like this: \!\[Example Excel Output\](path/to/your/image\_668821.png). Make sure the image is accessible in your repo.)*
+ \!\[Example Excel Output\](images\output_1.png)
 
 ## **Future Enhancements**
 
