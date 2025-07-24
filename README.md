@@ -23,10 +23,10 @@ You will also need the following Python packages:
 ## **Installation**
 
 1. **Clone the repository (or download the results.py file):**  
-   git clone https://github.com/your-username/your-repo-name.git  
-   cd your-repo-name
+   git clone https://github.com/malik-waqas-78/bise-sargodha-matric-results-scraper.git  
+   cd bise-sargodha-matric-results-scraper
 
-   (Replace your-username and your-repo-name with your actual GitHub details.)  
+    
 2. Install the required Python packages:  
    Open your terminal or command prompt and run:  
    pip install requests beautifulsoup4 pandas openpyxl
@@ -69,7 +69,7 @@ The generated Excel file will have the following columns in order:
 
 **Highlighting:** Cells corresponding to subjects where a student has failed (indicated by abbreviations like BIO, PHY, CHM, EGL, URU, MAT, THQ, PKS, ISM, CSC, CS in the 'overall result' column, including variations like BIOI, BIOII, BIO(PR), ISMI, ISMII) will be highlighted in light red.  
 **Example of Excel Output:**  
- ![Example Excel Output\](images\output_1.png)
+ ![Example Excel Output](images/output_1.png)
 
 ## **Future Enhancements**
 
